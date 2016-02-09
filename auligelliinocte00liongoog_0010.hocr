@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "auligelliinocte00liongoog_0010.png"; bbox 0 0 2416 4646; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 45 1433 1166 2170">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 45 1417 1166 2170">
+     <span class='ocr_line' id='line_1_1' title="bbox 279 1433 971 1639; baseline -0.004 -43"><span class='ocrx_word' id='word_1_1' title='bbox 279 1495 347 1596; x_wconf 87' lang='lat' dir='ltr'><strong>A.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 406 1490 783 1639; x_wconf 70' lang='lat' dir='ltr'>GELLH</span> <span class='ocrx_word' id='word_1_3' title='bbox 857 1464 859 1472; x_wconf 76' lang='grc'>’</span> <span class='ocrx_word' id='word_1_4' title='bbox 912 1433 971 1561; x_wconf 72' lang='lat' dir='ltr'>st</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 45 1667 1166 1885; baseline 0.008 -38"><span class='ocrx_word' id='word_1_5' title='bbox 45 1719 445 1885; x_wconf 77' lang='lat' dir='ltr'>NochUM</span> <span class='ocrx_word' id='word_1_6' title='bbox 491 1667 1017 1854; x_wconf 74' lang='lat' dir='ltr'><strong>ATTIOARUM</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1101 1703 1104 1716; x_wconf 87' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1156 1847 1166 1856; x_wconf 79' lang='grc'><strong><em>,</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 142 1988 876 2170; baseline 0.003 -91"><span class='ocrx_word' id='word_1_9' title='bbox 142 2138 144 2142; x_wconf 16' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_10' title='bbox 340 1988 701 2094; x_wconf 81' lang='lat' dir='ltr'>LIBRIXX.</span> <span class='ocrx_word' id='word_1_11' title='bbox 816 2149 876 2170; x_wconf 22' lang='grc'><strong>,1</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1212 4646">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1212 4646">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1212 4646; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1212 4646; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
